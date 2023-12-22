@@ -1,0 +1,14 @@
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Datatypes\bin\Debug\net8.0\Datatypes.exe
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Datatypes\bin\Debug\net8.0\Datatypes.deps.json
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Datatypes\bin\Debug\net8.0\Datatypes.runtimeconfig.json
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Datatypes\bin\Debug\net8.0\Datatypes.dll
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Datatypes\bin\Debug\net8.0\Datatypes.pdb
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Datatypes\obj\Debug\net8.0\Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Datatypes\obj\Debug\net8.0\Datatypes.AssemblyInfoInputs.cache
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Datatypes\obj\Debug\net8.0\Datatypes.AssemblyInfo.cs
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Datatypes\obj\Debug\net8.0\Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Datatypes\obj\Debug\net8.0\Datatypes.dll
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Datatypes\obj\Debug\net8.0\refint\Datatypes.dll
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Datatypes\obj\Debug\net8.0\Datatypes.pdb
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Datatypes\obj\Debug\net8.0\Datatypes.genruntimeconfig.cache
+C:\Users\rajas\OneDrive\Desktop\Scripts\Script\C\C++\Games\Datatypes\obj\Debug\net8.0\ref\Datatypes.dll
